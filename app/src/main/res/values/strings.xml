@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tweet_comp">TweetCompActivity</string>
+    <string name="title_activity_tweet_list">TweetListActivity</string>
+    <string name="title_activity_tweet_view">TweetViewActivity</string>
+</resources>
